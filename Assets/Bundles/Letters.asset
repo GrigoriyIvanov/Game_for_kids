@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6521e3990f33f34eb393f667ada2e7b, type: 3}
+  m_Name: Letters
+  m_EditorClassIdentifier: 
+  _cardData:
+  - _identifier: A
+    _sprite: {fileID: 4963718625464178563, guid: 644510c23274c1946940b9b7b87bf5e9,
+      type: 3}
+  - _identifier: B
+    _sprite: {fileID: 7783457984840754399, guid: 644510c23274c1946940b9b7b87bf5e9,
+      type: 3}
+  - _identifier: C
+    _sprite: {fileID: 3234300448368640894, guid: 644510c23274c1946940b9b7b87bf5e9,
+      type: 3}
+  - _identifier: D
+    _sprite: {fileID: 7911670913450602933, guid: 644510c23274c1946940b9b7b87bf5e9,
+      type: 3}
+  - _identifier: E
+    _sprite: {fileID: 4652326554734856401, guid: 644510c23274c1946940b9b7b87bf5e9,
+      type: 3}
+  - _identifier: F
+    _sprite: {fileID: -6426668015567183463, guid: 644510c23274c1946940b9b7b87bf5e9,
+      type: 3}
+  - _identifier: G
+    _sprite: {fileID: 216406037199867053, guid: 644510c23274c1946940b9b7b87bf5e9,
+      type: 3}
+  - _identifier: H
+    _sprite: {fileID: -8235857483100294123, guid: 644510c23274c1946940b9b7b87bf5e9,
+      type: 3}
+  - _identifier: I
+    _sprite: {fileID: -3541686595128163680, guid: 644510c23274c1946940b9b7b87bf5e9,
+      type: 3}
